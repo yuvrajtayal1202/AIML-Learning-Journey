@@ -1,0 +1,12 @@
+prefix=c:/Users/yuvra/Desktop/Repos/AIML-Learning-Journey/venv/Library
+exec_prefix=c:/Users/yuvra/Desktop/Repos/AIML-Learning-Journey/venv/Library
+libdir=c:/Users/yuvra/Desktop/Repos/AIML-Learning-Journey/venv/Library/lib
+includedir=c:/Users/yuvra/Desktop/Repos/AIML-Learning-Journey/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
