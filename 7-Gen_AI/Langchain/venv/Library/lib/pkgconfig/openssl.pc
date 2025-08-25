@@ -1,0 +1,9 @@
+prefix=C:/Users/yuvra/Desktop/Repos/Profile/AIML-Learning-Journey/7-Gen_AI/Langchain/first/venv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.17 
