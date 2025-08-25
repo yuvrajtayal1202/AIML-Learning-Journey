@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-community
+langchain_experimental
 
 langchain-openai
 openai
@@ -24,3 +25,4 @@ streamlit
 
 PyPDFLoader
 youtube-transcript-api
+duckduckgo-search
